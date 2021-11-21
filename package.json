@@ -1,0 +1,25 @@
+{
+  "name": "jawad",
+  "version": "1.0.0",
+  "description": "js reverse words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m98jk/jawad.git"
+  },
+  "keywords": [
+    "js",
+    "reverse",
+    "words",
+    "tools"
+  ],
+  "author": "m98jk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m98jk/jawad/issues"
+  },
+  "homepage": "https://github.com/m98jk/jawad#readme"
+}
