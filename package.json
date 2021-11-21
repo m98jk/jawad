@@ -1,5 +1,13 @@
 {
-  "name": "jawad",
+  "homepage": "https://github.com/m98jk/jawad#readme",
+  "name": "@m98jk/jawad",
+  "author": {
+    "name": "m98jk",
+    "email": "al7joker111@gmail.com"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/m98jk"
+  },
   "version": "1.0.0",
   "description": "js reverse words",
   "main": "index.js",
@@ -16,10 +24,8 @@
     "words",
     "tools"
   ],
-  "author": "m98jk",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/m98jk/jawad/issues"
-  },
-  "homepage": "https://github.com/m98jk/jawad#readme"
+  }
 }
